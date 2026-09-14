@@ -14,9 +14,9 @@
 
 **A mobile-first social fashion battle for Decentraland where players dress to a surprise theme, hit the runway, and let the audience decide who understood the assignment.**
 
-**World:** `leined.eth` · **Built for the Friendzone Mobile Buildathon**
+**World:** `fitcheck.dcl.eth` · **Built for the Friendzone Mobile Buildathon**
 
-[**▶ Open Fit Check (web)**](https://decentraland.org/bevy-web/?realm=https%3A%2F%2Fworlds-content-server.decentraland.org%2Fworld%2Fleined.eth&position=0%2C0)
+[**▶ Open Fit Check (Mobile)**](https://mobile.dclexplorer.com/open?realm=fitcheck.dcl.eth)
 
 </div>
 
@@ -184,13 +184,13 @@ See [`docs/FINAL-SUBMISSION-STATUS.md`](docs/FINAL-SUBMISSION-STATUS.md) for the
 
 ## Play / review
 
-**World identifier:** `leined.eth`
+**World identifier:** `fitcheck.dcl.eth`
 
-**Verified direct web launch:**
+**Verified direct Mobile launch:**
 
-[Open Fit Check](https://decentraland.org/bevy-web/?realm=https%3A%2F%2Fworlds-content-server.decentraland.org%2Fworld%2Fleined.eth&position=0%2C0)
+[Open Fit Check](https://mobile.dclexplorer.com/open?realm=fitcheck.dcl.eth)
 
-The project is deployed on Decentraland's Worlds content infrastructure. The external ENS `leined.eth` is the World identity. An ENS `dcl.realm` text record has been configured to support bare-name realm resolution; resolver/cache propagation may not be instantaneous.
+The project is deployed on Decentraland's Worlds content infrastructure. The native Decentraland NAME `fitcheck.dcl.eth` is the World identity.
 
 For the clearest review, allow one full round to progress from theme reveal through preparation, runway, voting and results.
 
@@ -246,7 +246,7 @@ Do not use `localhost` or `127.0.0.1` from the phone.
 - **Preparation:** 40 seconds
 - **Maximum nominal full round:** 123 seconds
 - **Wearable catalog:** 200 unique wearable URNs
-- **World:** `leined.eth`
+- **World:** `fitcheck.dcl.eth`
 - **Persistence:** current progression/reward systems are session-scoped
 
 ---

@@ -11,7 +11,7 @@ This file is the concise final source of truth for the submission. Older impleme
 
 | Item | Final state |
 |---|---|
-| World identity | `leined.eth` |
+| World identity | `fitcheck.dcl.eth` |
 | Platform | Decentraland SDK7 / TypeScript |
 | SDK | 7.27.0 |
 | Arena | 6 parcels, 3×2 |
@@ -27,13 +27,13 @@ This file is the concise final source of truth for the submission. Older impleme
 
 ## Public World
 
-**World identifier:** `leined.eth`
+**World identifier:** `fitcheck.dcl.eth`
 
-**Verified direct web launch:**
+**Verified direct Mobile launch:**
 
-https://decentraland.org/bevy-web/?realm=https%3A%2F%2Fworlds-content-server.decentraland.org%2Fworld%2Fleined.eth&position=0%2C0
+https://mobile.dclexplorer.com/open?realm=fitcheck.dcl.eth
 
-The deployment exists on Decentraland's Worlds content infrastructure. `leined.eth` is an external ENS World identity. The ENS `dcl.realm` text record was configured for bare-name resolution; resolver/cache propagation can take place independently of the deployment.
+The deployment exists on Decentraland's Worlds content infrastructure. `fitcheck.dcl.eth` is a native Decentraland NAME World identity.
 
 ## Automated / browser audit
 

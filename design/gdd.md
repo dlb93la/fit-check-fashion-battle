@@ -213,13 +213,13 @@ The arena uses six parcels in a 3×2 layout.
 
 The configured and deployed World identity is:
 
-`leined.eth`
+`fitcheck.dcl.eth`
 
-A direct public web launch is available at:
+A direct public Mobile launch is available at:
 
-`https://decentraland.org/bevy-web/?realm=https%3A%2F%2Fworlds-content-server.decentraland.org%2Fworld%2Fleined.eth&position=0%2C0`
+`https://mobile.dclexplorer.com/open?realm=fitcheck.dcl.eth`
 
-The external ENS uses a `dcl.realm` record for bare-name realm resolution. Resolver/cache propagation can be separate from the existence of the deployment itself.
+The World uses the native Decentraland NAME `fitcheck.dcl.eth`.
 
 GitHub publication and Decentraland World publication are separate operations.
 
